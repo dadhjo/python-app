@@ -5,5 +5,5 @@ def helloworld():
     return 'Hello World!'
 
 @myapp.route('/peru')
-def helloworld():
+def helloperu():
     return 'Imaynallam Peru...!'
